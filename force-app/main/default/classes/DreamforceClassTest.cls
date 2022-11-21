@@ -9,6 +9,7 @@ public class DreamforceClassTest {
     @IsTest
     public static void should_return_bye(){
         System.assert(DreamforceClass.bye() == 'bye');
+        //hi Miriam
     }
 
     @IsTest
